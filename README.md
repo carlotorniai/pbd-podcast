@@ -6,6 +6,7 @@ Inbox for the daily Pharma and Biotech Daily episode. Claude produces each episo
 | Path | Purpose |
 |---|---|
 | `render/tts_render.py` | Offline text to speech used by the cloud job |
+| `render/dedupe_check.py` | Repeat guard: blocks stories already told in the last 7 days |
 | `prompts/daily_task_prompt.md` | The scheduled task's instructions |
 | branch `episodes` | Every script, sources list and metadata, one folder per day |
 | branch `audio-inbox` | Only the next episode's files, force pushed daily |
