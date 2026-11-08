@@ -1,0 +1,20 @@
+# credentials, never in the repo
+.env
+.env.*
+*.pem
+*.key
+token.json
+credentials.json
+client_secret*.json
+*_credentials.json
+.aws/
+.ssh/
+.netrc
+.git-credentials
+
+# local work
+out/
+*.log
+__pycache__/
+.venv/
+.DS_Store
