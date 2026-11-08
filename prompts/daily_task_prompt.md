@@ -19,11 +19,9 @@ Read these first with WebFetch and keep only items published in the window:
 - BioPharma Dive RSS: https://www.biopharmadive.com/feeds/news/
 - BioSpace RSS: https://www.biospace.com/all-news.rss
 - FDA press releases RSS: https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/press-releases/rss.xml
-- Fierce Biotech headlines via Google News RSS: https://news.google.com/rss/search?q=site:fiercebiotech.com+when:2d&hl=en-US&gl=US&ceid=US:en
-- Fierce Pharma headlines via Google News RSS: https://news.google.com/rss/search?q=site:fiercepharma.com+when:2d&hl=en-US&gl=US&ceid=US:en
 - TLDR Biotech archive: https://tldrbio.tech/archive (open only the latest issue in the window; use it as a priority signal, never as text to summarize)
 
-Fierce Biotech and Fierce Pharma pages sit behind Cloudflare: use only their headlines, then confirm the facts on a primary source (company press release, FDA, EMA) or on BioPharma Dive or BioSpace.
+Fierce Biotech and Fierce Pharma: their RSS sits behind Cloudflare and Google News RSS refuses automated readers, so get their headlines with one WebSearch restricted to fiercebiotech.com and fiercepharma.com (allowed_domains), query "Fierce Biotech news <weekday month day year>". Use those headlines as a priority signal; confirm facts on a primary source (company press release, FDA, EMA), on BioPharma Dive or BioSpace, or on a Fierce article page when WebSearch returns its text.
 
 Then run WebSearch to fill gaps, one query per theme: FDA approvals and complete response letters; EMA and CHMP opinions; pharma and biotech deals, licensing and M&A; pivotal clinical trial readouts.
 
@@ -63,6 +61,11 @@ Style rules: varied transitions. Banned phrases: "Transitioning smoothly", "Shif
 Re-read the script against the sources; confirm word count, banned phrases absent, no date or number errors; `render.json` duration between 3 and 7 minutes; `episode.json` has exactly the keys title, description, tags, publish_date (target date, YYYY-MM-DD), kind ("daily" or "saturday").
 
 ## 9. Deliver
+0. Sensitive data check, before every commit and push. Run it on every file you are about to commit:
+
+       grep -rInE "AKIA[0-9A-Z]{16}|sk-[A-Za-z0-9_-]{20,}|ghp_[A-Za-z0-9]{30,}|github_pat_|xox[abprs]-|-----BEGIN|refresh_token|client_secret|[Aa]uthorization:|[Bb]earer [A-Za-z0-9._-]{20,}|[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[a-z]{2,}|\+[0-9]{2} ?[0-9]{2,3} ?[0-9]{3}" <files>
+
+   Expected result: no matches. Also confirm that no URL in `sources.md` or `episode.json` carries tracking or session parameters (`token=`, `sid=`, `session`, `utm_`); strip the query string if it does. The script names companies, regulators and public officials only in their public role, never private individuals. If anything sensitive appears and cannot be removed cleanly, push nothing and send a push notification describing the problem.
 1. On branch `episodes` (create from `main` if missing), commit `episodes/<target date>/` with `episode.json`, `script.md`, `sources.md`, `render.json`. Push.
 2. Build a fresh orphan commit for branch `audio-inbox` containing only `<target date>/` with the same four files plus `episode.mp3` and `episode.wav`. Force push.
 3. If any step failed, push nothing and send a push notification describing the failure.
