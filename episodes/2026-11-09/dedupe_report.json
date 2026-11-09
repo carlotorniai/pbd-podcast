@@ -1,0 +1,37 @@
+{
+  "target_date": "2026-11-09",
+  "window_days": 7,
+  "ledger_stories": 6,
+  "results": [
+    {
+      "n": 1,
+      "headline": "Full Lp(a)HORIZON results at AHA: pelacarsen cuts Lp(a) 78 percent but no cardiovascular benefit",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 2,
+      "headline": "FDA's November decisions: Summit and Akeso ivonescimab, Capricor deramiocel, Vertex povetacicept",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 3,
+      "headline": "Mineralys lorundrostat holds blood pressure lowering at 48 weeks ahead of December FDA date",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 4,
+      "headline": "Sarepta's new CEO lays out plan as Elevidys sales fall and Dyne nears decision",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 5,
+      "headline": "Moderna third quarter revenue rises 29 percent and full year guidance is raised",
+      "verdict": "OK",
+      "hits": []
+    }
+  ]
+}
