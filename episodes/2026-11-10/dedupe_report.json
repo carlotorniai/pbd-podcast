@@ -1,0 +1,37 @@
+{
+  "target_date": "2026-11-10",
+  "window_days": 7,
+  "ledger_stories": 5,
+  "results": [
+    {
+      "n": 1,
+      "headline": "Vir's elebsiran and tobevibart combination meets primary endpoint in Phase 3 ECLIPSE 1 for chronic hepatitis delta",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 2,
+      "headline": "argenx agrees to buy Unnatural Products for up to 1.15 billion dollars to add oral macrocyclic peptides",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 3,
+      "headline": "TG Therapeutics raises Briumvi guidance toward one billion dollars in total revenue",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 4,
+      "headline": "Xenon's azetukalner filing is with the FDA and depression readout X-NOVA2 is expected in December",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 5,
+      "headline": "Atea draws on Hercules credit line as hepatitis C regimen heads to a mid 2027 filing",
+      "verdict": "OK",
+      "hits": []
+    }
+  ]
+}
