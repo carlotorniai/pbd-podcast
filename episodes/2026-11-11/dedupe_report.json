@@ -1,0 +1,37 @@
+{
+  "target_date": "2026-11-11",
+  "window_days": 7,
+  "ledger_stories": 10,
+  "results": [
+    {
+      "n": 1,
+      "headline": "Beam's base editing therapy risto-cel meets primary endpoint in pivotal BEACON sickle cell trial",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 2,
+      "headline": "FDA approves Pimjetmi, pimicotinib, from Abbisko and Merck KGaA for tenosynovial giant cell tumor",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 3,
+      "headline": "BIO unveils BioAdvance plan to keep the United States ahead of China in biotech",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 4,
+      "headline": "Gossamer Bio readies seralutinib launch after first NDA filing in pulmonary arterial hypertension",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 5,
+      "headline": "FDA clears Metagenomi's IND for MGX-001 gene insertion therapy in hemophilia A",
+      "verdict": "OK",
+      "hits": []
+    }
+  ]
+}
