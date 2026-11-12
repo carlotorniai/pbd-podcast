@@ -1,0 +1,43 @@
+{
+  "target_date": "2026-11-12",
+  "window_days": 7,
+  "ledger_stories": 15,
+  "results": [
+    {
+      "n": 1,
+      "headline": "FDA requires GLP-1 labels to warn of possible NAION vision loss risk",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 2,
+      "headline": "Compass Pathways completes FDA filing for COMP360 psilocybin in treatment resistant depression",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 3,
+      "headline": "AstraZeneca acquires vaccine partner Omniose for its bioconjugation technology",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 4,
+      "headline": "Abeona buys Phase 3 ready eosinophilic esophagitis drug ABO-801 from Ellodi and raises 30 million dollars",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 5,
+      "headline": "Flagship companies Valo Health and Montai Therapeutics merge",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 6,
+      "headline": "Zura Bio drops hidradenitis suppurativa after tibulizumab misses Phase 2 goal",
+      "verdict": "OK",
+      "hits": []
+    }
+  ]
+}
