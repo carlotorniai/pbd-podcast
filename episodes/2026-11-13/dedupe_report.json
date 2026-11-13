@@ -1,0 +1,43 @@
+{
+  "target_date": "2026-11-13",
+  "window_days": 7,
+  "ledger_stories": 21,
+  "results": [
+    {
+      "n": 1,
+      "headline": "Blackstone commits up to 1.5 billion dollars to fund Pfizer's Phase 3 program for monthly obesity shot berobenatide",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 2,
+      "headline": "Reuters reports FDA has quietly shelved the Commissioner's National Priority Voucher program ahead of Overton vote",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 3,
+      "headline": "FDA drug and biologics centers have 1,343 fewer staff than two years ago, slowing feedback to drugmakers",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 4,
+      "headline": "Bristol Myers Squibb merges research and development under Cristian Massacesi as Robert Plenge departs",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 5,
+      "headline": "Windward Bio prices 175 million dollar IPO for China licensed TSLP drugs",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 6,
+      "headline": "Neurosterix raises 105 million dollar Series B for M4 schizophrenia drug and recruits Karuna veterans",
+      "verdict": "OK",
+      "hits": []
+    }
+  ]
+}
