@@ -1,0 +1,42 @@
+{
+  "target_date": "2026-11-16",
+  "window_days": 7,
+  "ledger_stories": 27,
+  "results": [
+    {
+      "n": 1,
+      "headline": "FDA rejects Summit and Akeso's ivonescimab in EGFR mutated lung cancer without an overall survival win",
+      "verdict": "FOLLOWUP",
+      "hits": [
+        {
+          "level": "FOLLOWUP",
+          "why": "declared follow up of 2026-11-09#2 with new fact"
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "headline": "CHMP recommends AstraZeneca's Baxfendy, baxdrostat, for hypertension",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 3,
+      "headline": "Two China origin lung cancer drugs, aumolertinib and sintilimab, win CHMP backing",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 4,
+      "headline": "CHMP upholds refusal of Zevra's Meplyffa and Alexion withdraws anselamimab, while Roche's Gazyvaro gains a lupus nod",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 5,
+      "headline": "Cellectis may cut up to 70 percent of staff as it exits CAR T for in vivo gene editing",
+      "verdict": "OK",
+      "hits": []
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+[
+ {"headline": "FDA rejects Summit and Akeso's ivonescimab in EGFR mutated lung cancer without an overall survival win",
+  "keywords": ["Summit Therapeutics", "Akeso", "ivonescimab", "HARMONi", "complete response letter", "HARMONi-3", "PD-1 x VEGF"],
+  "urls": ["https://www.biospace.com/press-releases/summit-therapeutics-provides-update-regarding-ivonescimab-biologics-license-application"],
+  "follow_up_of": "2026-11-09#2",
+  "new_fact": "On November 15 2026 Summit disclosed an FDA complete response letter for the ivonescimab BLA, citing the lack of a statistically significant overall survival benefit in HARMONi."},
+ {"headline": "CHMP recommends AstraZeneca's Baxfendy, baxdrostat, for hypertension",
+  "keywords": ["AstraZeneca", "Baxfendy", "baxdrostat", "CHMP", "EMA", "hypertension"],
+  "urls": ["https://www.ema.europa.eu/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-9-12-november-2026"]},
+ {"headline": "Two China origin lung cancer drugs, aumolertinib and sintilimab, win CHMP backing",
+  "keywords": ["Aumseqa", "aumolertinib", "Hansoh", "Zybrivo", "sintilimab", "Fortvita Biologics", "CHMP"],
+  "urls": ["https://www.ema.europa.eu/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-9-12-november-2026", "https://www.fiercepharma.com/pharma/europes-chmp-signed-stack-new-medicines-including-azs-bp-med-and-2-entrants-china"]},
+ {"headline": "CHMP upholds refusal of Zevra's Meplyffa and Alexion withdraws anselamimab, while Roche's Gazyvaro gains a lupus nod",
+  "keywords": ["Zevra", "Meplyffa", "arimoclomol", "Niemann-Pick type C", "Alexion", "anselamimab", "Amlypave", "Gazyvaro", "obinutuzumab"],
+  "urls": ["https://www.ema.europa.eu/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-9-12-november-2026"]},
+ {"headline": "Cellectis may cut up to 70 percent of staff as it exits CAR T for in vivo gene editing",
+  "keywords": ["Cellectis", "HEAL-101", "HEAL-201", "lasme-cel", "eti-cel", "Andre Choulika", "in vivo gene editing"],
+  "urls": ["https://www.biospace.com/job-trends/cellectis-could-cut-70-of-workforce-in-shift-to-in-vivo-therapies"]}
+]
