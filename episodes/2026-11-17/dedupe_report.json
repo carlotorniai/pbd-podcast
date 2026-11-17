@@ -1,0 +1,43 @@
+{
+  "target_date": "2026-11-17",
+  "window_days": 7,
+  "ledger_stories": 27,
+  "results": [
+    {
+      "n": 1,
+      "headline": "Johnson and Johnson buys Ollin Biosciences for 2.2 billion dollars upfront to challenge Roche's Vabysmo in eye disease",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 2,
+      "headline": "FDA approves Genentech's Wilserdly, giredestrant, with everolimus for ESR1 mutated breast cancer",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 3,
+      "headline": "Helus Pharma's deuterated psilocin HLP003 meets Phase 3 APPROACH goal in depression",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 4,
+      "headline": "Lilly agrees to buy Calytrix Bio for up to 1.5 billion dollars, its fifteenth acquisition this year",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 5,
+      "headline": "Seawolf Therapeutics launches with 100 million dollars and a Sanofi pact worth up to 1.2 billion for DNA medicines",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 6,
+      "headline": "Novartis licenses OBI Pharma's glycan conjugation technology for next generation ADCs in a deal worth over 2 billion dollars",
+      "verdict": "OK",
+      "hits": []
+    }
+  ]
+}
