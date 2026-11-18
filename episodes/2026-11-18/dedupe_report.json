@@ -1,0 +1,31 @@
+{
+  "target_date": "2026-11-18",
+  "window_days": 7,
+  "ledger_stories": 28,
+  "results": [
+    {
+      "n": 1,
+      "headline": "FDA grants accelerated approval to GSK's Nelkarmi, neladalkib, for previously treated ALK positive lung cancer",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 2,
+      "headline": "Isomorphic Labs raises a record 5 billion dollar Series C for AI drug design",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 3,
+      "headline": "Lilly signs oncology licensing pact with Stipple Bio worth up to 5.9 billion dollars in milestones",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 4,
+      "headline": "AriBio's oral PDE5 inhibitor AR1001 misses in the overall Phase 3 POLARIS-AD population but hits in monotherapy patients",
+      "verdict": "OK",
+      "hits": []
+    }
+  ]
+}
