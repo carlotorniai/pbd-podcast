@@ -1,0 +1,7 @@
+# Sources, 2026-11-19
+
+- Pfizer enters in vivo CAR T with a licensing deal worth up to 2.6 billion dollars with China's Starna Therapeutics: https://www.biospace.com/business/pfizer-launches-into-autoimmune-car-t-with-chinas-starna-in-up-to-2-6b-deal https://fiercebiotech.com/biotech/pfizer-enters-vivo-car-t-space-3-program-26b-deal-chinas-starna
+- Merck ends its nemtabrutinib BTK inhibitor program after a Phase 3 benefit risk review: https://www.merck.com/news/merck-announces-update-on-bellwave-clinical-development-program-evaluating-nemtabrutinib/ https://fiercebiotech.com/biotech/merck-axes-27b-btk-inhibitor-program-after-seeing-phase-3-data
+- FDA publishes Summit's ivonescimab rejection letter, citing China heavy data and modest benefit: https://download.open.fda.gov/crl/CRL_BLA761524_20261113.pdf https://www.fiercepharma.com/pharma/fdas-complete-response-letter-summit-ivonescimab-cites-china-heavy-data-beyond-survival-miss https://www.biopharmadive.com/news/summit-crl-sellas-data-nelkarmi-lilly-astrazeneca-biogen/874825/
+- Bristol Myers Squibb shows open label Cobenfy data in Alzheimer's psychosis at CTAD as safety rates draw questions: https://www.biospace.com/drug-development/CTAD-2026-bms-cobenfy-eases-alzheimer's-psychosis-as-expected-but-safety-events-raise-questions
+- Biogen pays Trimtech over 32 million dollars upfront for brain penetrant protein degraders: https://www.biopharmadive.com/news/summit-crl-sellas-data-nelkarmi-lilly-astrazeneca-biogen/874825/

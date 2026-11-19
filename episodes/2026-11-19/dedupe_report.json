@@ -1,0 +1,42 @@
+{
+  "target_date": "2026-11-19",
+  "window_days": 7,
+  "ledger_stories": 27,
+  "results": [
+    {
+      "n": 1,
+      "headline": "Pfizer enters in vivo CAR T with a licensing deal worth up to 2.6 billion dollars with China's Starna Therapeutics",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 2,
+      "headline": "Merck ends its nemtabrutinib BTK inhibitor program after a Phase 3 benefit risk review",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 3,
+      "headline": "FDA publishes Summit's ivonescimab rejection letter, citing China heavy data and modest benefit",
+      "verdict": "FOLLOWUP",
+      "hits": [
+        {
+          "level": "FOLLOWUP",
+          "why": "declared follow up of 2026-11-16#1 with new fact"
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "headline": "Bristol Myers Squibb shows open label Cobenfy data in Alzheimer's psychosis at CTAD as safety rates draw questions",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 5,
+      "headline": "Biogen pays Trimtech over 32 million dollars upfront for brain penetrant protein degraders",
+      "verdict": "OK",
+      "hits": []
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+[
+ {
+  "headline": "Pfizer enters in vivo CAR T with a licensing deal worth up to 2.6 billion dollars with China's Starna Therapeutics",
+  "keywords": [
+   "Pfizer",
+   "Starna Therapeutics",
+   "in vivo CAR T",
+   "lipid nanoparticle",
+   "B-cell depletion",
+   "autoimmune"
+  ],
+  "urls": [
+   "https://www.biospace.com/business/pfizer-launches-into-autoimmune-car-t-with-chinas-starna-in-up-to-2-6b-deal",
+   "https://fiercebiotech.com/biotech/pfizer-enters-vivo-car-t-space-3-program-26b-deal-chinas-starna"
+  ]
+ },
+ {
+  "headline": "Merck ends its nemtabrutinib BTK inhibitor program after a Phase 3 benefit risk review",
+  "keywords": [
+   "Merck",
+   "nemtabrutinib",
+   "MK-1026",
+   "BELLWAVE-011",
+   "BELLWAVE-008",
+   "BELLWAVE-010",
+   "BTK inhibitor",
+   "chronic lymphocytic leukemia"
+  ],
+  "urls": [
+   "https://www.merck.com/news/merck-announces-update-on-bellwave-clinical-development-program-evaluating-nemtabrutinib/",
+   "https://fiercebiotech.com/biotech/merck-axes-27b-btk-inhibitor-program-after-seeing-phase-3-data"
+  ]
+ },
+ {
+  "headline": "FDA publishes Summit's ivonescimab rejection letter, citing China heavy data and modest benefit",
+  "keywords": [
+   "Summit Therapeutics",
+   "Akeso",
+   "ivonescimab",
+   "HARMONi",
+   "complete response letter",
+   "HARMONi-A"
+  ],
+  "urls": [
+   "https://download.open.fda.gov/crl/CRL_BLA761524_20261113.pdf",
+   "https://www.fiercepharma.com/pharma/fdas-complete-response-letter-summit-ivonescimab-cites-china-heavy-data-beyond-survival-miss",
+   "https://www.biopharmadive.com/news/summit-crl-sellas-data-nelkarmi-lilly-astrazeneca-biogen/874825/"
+  ],
+  "follow_up_of": "2026-11-16#1",
+  "new_fact": "On November 17 2026 the FDA published the complete response letter, which says 93 percent of progression free survival events came from patients in China, calls the benefit modest against added toxicity, and asks for a new global trial."
+ },
+ {
+  "headline": "Bristol Myers Squibb shows open label Cobenfy data in Alzheimer's psychosis at CTAD as safety rates draw questions",
+  "keywords": [
+   "Bristol Myers Squibb",
+   "Cobenfy",
+   "KarXT",
+   "xanomeline-trospium",
+   "ADEPT-1",
+   "ADEPT-3",
+   "ADEPT-2",
+   "CTAD"
+  ],
+  "urls": [
+   "https://www.biospace.com/drug-development/CTAD-2026-bms-cobenfy-eases-alzheimer's-psychosis-as-expected-but-safety-events-raise-questions"
+  ]
+ },
+ {
+  "headline": "Biogen pays Trimtech over 32 million dollars upfront for brain penetrant protein degraders",
+  "keywords": [
+   "Biogen",
+   "Trimtech Therapeutics",
+   "protein degraders",
+   "neurodegenerative disease"
+  ],
+  "urls": [
+   "https://www.biopharmadive.com/news/summit-crl-sellas-data-nelkarmi-lilly-astrazeneca-biogen/874825/"
+  ]
+ }
+]
