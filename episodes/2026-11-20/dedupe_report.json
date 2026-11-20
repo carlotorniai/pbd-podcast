@@ -1,0 +1,31 @@
+{
+  "target_date": "2026-11-20",
+  "window_days": 7,
+  "ledger_stories": 26,
+  "results": [
+    {
+      "n": 1,
+      "headline": "FDA approves Regeneron's Livsayis, cemdisiran, the first RNAi drug for an autoimmune disease, in generalized myasthenia gravis",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 2,
+      "headline": "US National Security Commission on Emerging Biotechnology warns China's five year plan could corner biopharma, backs COINS Act coverage",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 3,
+      "headline": "Sanofi weighs a takeover of Insmed, maker of Brinsupri, as Dupixent patent cliff nears, Bloomberg reports",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 4,
+      "headline": "Arcera Life Sciences licenses Innogen's GLP-1 efsubaglutide alfa for international markets",
+      "verdict": "OK",
+      "hits": []
+    }
+  ]
+}
