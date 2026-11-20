@@ -1,0 +1,6 @@
+# Sources, 2026-11-20
+
+1. FDA approves Regeneron's Livsayis, cemdisiran, first RNAi drug for an autoimmune disease: https://www.biopharmadive.com/news/regeneron-fda-approve-cemdisiran-livsayis-myasthenia-gravis-alnylam/875160/
+2. US biotech security commission warns China could corner biopharma and backs COINS Act coverage: https://www.biopharmadive.com/news/us-china-biotech-report-commission-supply-chain-2026/875170/
+3. Sanofi reportedly weighs a takeover of Brinsupri maker Insmed: https://www.fiercepharma.com/pharma/facing-down-dupixent-cliff-sanofi-mulls-buyout-insmed-and-its-blockbuster-be-brinsupri ; https://qz.com/sanofi-insmed-takeover-weighing-respiratory-drugmaker-111926 ; https://insights.citeline.com/scrip/business/deals/sanofi-may-have-its-eye-on-insmed-but-can-it-afford-to-buy-it-OAR6HJALZZFMJHA2HMMBQGIIDA/
+4. Arcera licenses Innogen's GLP-1 efsubaglutide alfa for international markets: https://www.globenewswire.com/news-release/2026/11/19/3406360/0/en/arcera-life-sciences-and-innogen-pharmaceuticals-sign-exclusive-licensing-agreement-to-expand-access-to-cardiometabolic-care-across-international-markets.html ; https://fiercepharma.com/pharma/arcera-ponies-1b-innogens-china-approved-glp-1
