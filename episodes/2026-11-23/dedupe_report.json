@@ -1,0 +1,31 @@
+{
+  "target_date": "2026-11-23",
+  "window_days": 7,
+  "ledger_stories": 24,
+  "results": [
+    {
+      "n": 1,
+      "headline": "Merck and Kelun-Biotech's TROP2 ADC sacituzumab tirumotecan extends survival in Phase 3 TroFuse-015 in gastroesophageal cancer",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 2,
+      "headline": "FDA rejects Capricor's deramiocel cell therapy for Duchenne muscular dystrophy a second time",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 3,
+      "headline": "Revolution Medicines' Rasonque, daraxonrasib, posts stronger first line pancreatic cancer data with chemotherapy",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 4,
+      "headline": "FDA will miss its already delayed decision date for Savara's Molbreevi, molgramostim, in autoimmune PAP",
+      "verdict": "OK",
+      "hits": []
+    }
+  ]
+}
