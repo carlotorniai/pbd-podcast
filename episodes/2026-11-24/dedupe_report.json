@@ -1,0 +1,31 @@
+{
+  "target_date": "2026-11-24",
+  "window_days": 7,
+  "ledger_stories": 23,
+  "results": [
+    {
+      "n": 1,
+      "headline": "Lilly buys Huntington's disease biotech LoQus23 Therapeutics in a deal worth up to 725 million dollars",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 2,
+      "headline": "Novartis reports a positive Phase 3 ORION-4 cardiovascular outcomes result for Leqvio, inclisiran",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 3,
+      "headline": "Invivyd says COVID antibody VYD2311, ibramvibart, met all interim endpoints in Phase 3 DECLARATION and plans a 2027 filing",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 4,
+      "headline": "Latigo Biotherapeutics starts Phase 3 bunionectomy trial of NaV1.8 blocker onzotrigine for acute pain",
+      "verdict": "OK",
+      "hits": []
+    }
+  ]
+}
