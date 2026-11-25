@@ -1,0 +1,42 @@
+{
+  "target_date": "2026-11-25",
+  "window_days": 7,
+  "ledger_stories": 21,
+  "results": [
+    {
+      "n": 1,
+      "headline": "Sanofi agrees to buy Insmed for about 41 billion dollars, adding Brinsupri and Arikayce",
+      "verdict": "FOLLOWUP",
+      "hits": [
+        {
+          "level": "FOLLOWUP",
+          "why": "declared follow up of 2026-11-20#3 with new fact"
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "headline": "CMS sets third round of Medicare negotiated prices for 13 drugs, first to include Part B, with 9.2 billion dollars in estimated savings",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 3,
+      "headline": "FDA approves Cogent's Ekitna, bezuclastinib, with sunitinib in previously treated GIST",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 4,
+      "headline": "FDA approves BridgeBio's Welgemda, ribitol, the first treatment for limb girdle muscular dystrophy 2I/R9",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 5,
+      "headline": "Merck KGaA launches tender offer for microbial quality control firm Rapid Micro Biosystems",
+      "verdict": "OK",
+      "hits": []
+    }
+  ]
+}
