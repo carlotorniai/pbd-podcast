@@ -1,0 +1,37 @@
+{
+  "target_date": "2026-11-26",
+  "window_days": 7,
+  "ledger_stories": 22,
+  "results": [
+    {
+      "n": 1,
+      "headline": "USTR proposes Section 301 tariffs on 14 economies, citing pharmaceutical and medical device overcapacity",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 2,
+      "headline": "Bayer licenses Hansoh's EGFR c-MET bispecific ADC HS-20122 for 150 million dollars upfront and up to 3.1 billion in milestones",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 3,
+      "headline": "Bristol Myers Squibb's Sotyktu, deucravacitinib, hits in one of two Phase 3 lupus trials",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 4,
+      "headline": "Amgen settles with Bristol Myers Squibb and Ono, clearing a US launch path for its Opdivo biosimilar in October 2028",
+      "verdict": "OK",
+      "hits": []
+    },
+    {
+      "n": 5,
+      "headline": "Pharming pauses Ruconest manufacturing after failed media fill and warns FDA of likely US supply interruption",
+      "verdict": "OK",
+      "hits": []
+    }
+  ]
+}
